@@ -1,0 +1,4 @@
+https://pemrogramanmatlab.com/data-mining-menggunakan-matlab/logika-fuzzy-menggunakan-matlab/
+
+FIS to Arduino Sketch
+http://www.makeproto.com/projects/fuzzy/matlab_arduino_FIST/index.php
